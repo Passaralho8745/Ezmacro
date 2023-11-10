@@ -1,0 +1,3 @@
+para começar a salvar o que vai ser executado abara o salvar.exe
+para parar de salvar clique "Esc"
+para executar o que foi salvo abra o executar.exe
